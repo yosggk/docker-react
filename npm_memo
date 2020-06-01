@@ -1,0 +1,8 @@
+-- starts up a development server. For development use only
+npm run start 
+
+-- runs tests associated with the project
+npm run test
+
+-- builds a production version of the application
+npm run build
